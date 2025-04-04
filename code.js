@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", (event) => {
-    alert("Hello Worldd");
+    alert("Hello World");
 });
